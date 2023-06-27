@@ -57,6 +57,8 @@ This dataset has 2000 rows and 21 columns. This dataset of 21 columns has 0 valu
 8) Around 52% datapoints are 4G supported, rest 47% datapoints are not 4G supported
 9) The internal memory of low cost, medium cost and high cost mobiles is almost same but the internal memory of very high cost mobiles is increased
 10) As the price of mobile is increasing, similarly the RAM of mobile is also increasing.
+![image](https://github.com/piyushkchaudhari/CAPSTONE-PROJECT-CLASSIFICATION-Mobile-Price-Range-Prediction-/assets/123857050/054f3b1a-8198-4f75-b193-1770fb0489fa)
+![image](https://github.com/piyushkchaudhari/CAPSTONE-PROJECT-CLASSIFICATION-Mobile-Price-Range-Prediction-/assets/123857050/1738b60c-c7be-476f-82b5-010574d2d01d)
 
 ## Final Conclusion
 From EDA we can see that here are mobile phones in 4 price ranges. All classes have the same amount of datapoints
