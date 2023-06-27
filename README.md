@@ -27,7 +27,7 @@ In the competitive mobile phone market companies want to understand sales data o
 21) Wifi - Has wifi or not
 22) Price_range - This is the target variable with value of 0(low cost), 1(medium cost),
 
-# About dataset :
+## About dataset :
 This dataset has 2000 rows and 21 columns. This dataset of 21 columns has 0 values ​​in 2 columns. I want to replace the 0 values ​​with the mean of the same column. There are no null values ​​and duplicate values ​​in this dataset. The target column of this dataset has four classes.
 
 ## Library Used
@@ -39,7 +39,7 @@ This dataset has 2000 rows and 21 columns. This dataset of 21 columns has 0 valu
 - Sklearn: For Machine Learning Models.
 - Statsmodels: For variance inflation factor
   
-# In this project : 
+## In this project : 
 1. Introduction
 2. Exploratory Data Analysis.
 3. Data Preprocessing.
@@ -47,7 +47,7 @@ This dataset has 2000 rows and 21 columns. This dataset of 21 columns has 0 valu
 5. Evaluation.
 6. Conclusion
 
-# EDA Final Conclusion
+## EDA Final Conclusion
 1) In low cost mobile most of the mobile battery is from 500 to 1000 and in medium and high cost mobile the mobile battery is stable but in very high cost mobile most of the mobile battery is from 1500 to 2000
 2) Talk time is less due to low battery life in low cost mobile
 3) Screen width and screen height are less affecting mobile price, screen height and screen width have increased slightly in very high price mobile phones.
@@ -58,7 +58,7 @@ This dataset has 2000 rows and 21 columns. This dataset of 21 columns has 0 valu
 9) The internal memory of low cost, medium cost and high cost mobiles is almost same but the internal memory of very high cost mobiles is increased
 10) As the price of mobile is increasing, similarly the RAM of mobile is also increasing.
 
-# Final Conclusion
+## Final Conclusion
 From EDA we can see that here are mobile phones in 4 price ranges. All classes have the same amount of datapoints
 Class is not unbalanced and every class is important so training and test score is important
 Logestic regression and XGBoost model gives better results compared to other models
