@@ -59,9 +59,8 @@ This dataset has 2000 rows and 21 columns. This dataset of 21 columns has 0 valu
 10) As the price of mobile is increasing, similarly the RAM of mobile is also increasing.
 ![image](https://github.com/piyushkchaudhari/CAPSTONE-PROJECT-CLASSIFICATION-Mobile-Price-Range-Prediction-/assets/123857050/054f3b1a-8198-4f75-b193-1770fb0489fa)
 ![image](https://github.com/piyushkchaudhari/CAPSTONE-PROJECT-CLASSIFICATION-Mobile-Price-Range-Prediction-/assets/123857050/1738b60c-c7be-476f-82b5-010574d2d01d)
-
+![image](https://github.com/piyushkchaudhari/CAPSTONE-PROJECT-CLASSIFICATION-Mobile-Price-Range-Prediction-/assets/123857050/49b40d40-75b4-45b4-a6c5-7b347c41a25c)
 ## Final Conclusion
 From EDA we can see that here are mobile phones in 4 price ranges. All classes have the same amount of datapoints
 Class is not unbalanced and every class is important so training and test score is important
 Logestic regression and XGBoost model gives better results compared to other models
-![image](https://github.com/piyushkchaudhari/CAPSTONE-PROJECT-CLASSIFICATION-Mobile-Price-Range-Prediction-/assets/123857050/49b40d40-75b4-45b4-a6c5-7b347c41a25c)
