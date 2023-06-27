@@ -30,6 +30,15 @@ In the competitive mobile phone market companies want to understand sales data o
 # About dataset :
 This dataset has 2000 rows and 21 columns. This dataset of 21 columns has 0 values ​​in 2 columns. I want to replace the 0 values ​​with the mean of the same column. There are no null values ​​and duplicate values ​​in this dataset. The target column of this dataset has four classes.
 
+## Library Used
+- Pandas : For loading the dataset and performing data wrangling
+- NumPy : For performing data wrangling and math operation 
+- Matplotlib: For data visualization.
+- Seaborn: For data visualization.
+- Missingno : For Num Values visualization. 
+- Sklearn: For Machine Learning Models.
+- Statsmodels: For variance inflation factor
+  
 # In this project : 
 1. Introduction
 2. Exploratory Data Analysis.
