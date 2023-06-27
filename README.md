@@ -32,9 +32,9 @@ This dataset has 2000 rows and 21 columns. This dataset of 21 columns has 0 valu
 
 # In this project : 
 1. Introduction
-2. Exploratory Data Analysis./Reviwing Our Dataset
+2. Exploratory Data Analysis.
 3. Data Preprocessing.
-4. Model Training- MULTICLASS AND BINARY.
+4. Model Training
 5. Evaluation.
 6. Conclusion
 
